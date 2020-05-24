@@ -30,6 +30,7 @@
 *.su
 *.swp
 *.tab.[ch]
+*.scr
 
 # Build tree
 /build-*
